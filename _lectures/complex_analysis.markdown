@@ -7,4 +7,4 @@ Notes:
 
 |Lecture notes                                                    | Description                                |
 |-----------------------------------------------------------------|--------------------------------------------|
-| [View]({{ site.baseurl }}/_files/complex_analysis/Lecture1.pdf) | Holomorphic functions                      |
+| [View]({{ site.baseurl }}/files/complex_analysis/Lecture1.pdf) | Holomorphic functions                      |
