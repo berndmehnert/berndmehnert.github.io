@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to My Site"
+title: "Welcome"
 ---
 
 # Welcome to My Site
