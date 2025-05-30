@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: "Welcome to My Site"
 ---
+
+# Welcome to My Site
+
+This is my personal blog where I share my projects and research.
