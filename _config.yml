@@ -28,7 +28,7 @@ url: https://berndmehnert.github.io
 github_username:  berndmehnert
 
 # Build settings
-theme: minima
+theme: academic-jekyll-theme #minima
 plugins:
   - jekyll-feed
 
