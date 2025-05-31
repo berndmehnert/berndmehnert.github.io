@@ -2,7 +2,9 @@
 layout: page
 title: Complex Analysis
 ---
-The following notes contain the content of eight short lectures on Complex Analysis. Several classical and important facts are covered. If they are of any help, feel free to use them. If you find any errors in the text, please inform me, I will be happy to correct them.
+The following notes contain the content of eight short lectures on Complex Analysis. Several classical and important facts are covered. If they are of any help, feel free to use them. 
+
+If you find any errors in the text, please inform me, I will be happy to correct them.
 
 |Lecture notes                                                    | Description                                |
 |-----------------------------------------------------------------|--------------------------------------------|
@@ -16,4 +18,3 @@ The following notes contain the content of eight short lectures on Complex Analy
 | [Lecture_8]({{ site.baseurl }}/files/complex_analysis/Lecture8.pdf) | The gamma function and the Riemann zeta function|
 
 You can also download the full text containing all the parts above [here]({{ site.baseurl }}/files/complex_analysis/fulltext.pdf).
-If you find any errors 
