@@ -2,7 +2,6 @@
 layout: default
 title: "Home"
 ---
-
 # Home
 
 This is my personal homepage where I share my projects and research.
