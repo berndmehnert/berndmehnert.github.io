@@ -4,8 +4,8 @@ title:  "Test latex post."
 date:   2025-06-11
 categories: jekyll update
 ---
-We let $$\alpha_{1},...,\alpha_{R}$$ be $$R$$ modulo one distinct real numbers and 
-$$a=(a_{n})_{M<n\leq M+N}$$ a $$N$$-vector of complex numbers. We let further
+We let $$\alpha_{1},...,\alpha_{R}$$ be $$R$$ real numbers which are pairwise distinct modulo one and we let
+$$a=(a_{n})_{M<n\leq M+N}$$ be an arbitrary $$N$$-vector of complex numbers. We let further
 
 $$S(\alpha)=\sum_{M<n\leq M+N}a_{n}(\alpha n).$$ 
 
