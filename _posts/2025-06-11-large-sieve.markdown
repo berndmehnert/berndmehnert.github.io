@@ -4,8 +4,8 @@ title:  "Test latex post."
 date:   2025-06-11
 categories: jekyll update
 ---
-Given real numbers $$\alpha_{1},...,\alpha_{R}$$ and
-$$a=(a_{n})_{M<n\leq M+N}$$ be a vector of complex numbers. We let
+Given real numbers $$\alpha_{1},...,\alpha_{R}$$ and a vector
+$$a=(a_{n})_{M<n\leq M+N}$$ of complex numbers. We let
 
 $$S(\alpha)=\sum_{M<n\leq M+N}a_{n}(\alpha n).$$ 
 
