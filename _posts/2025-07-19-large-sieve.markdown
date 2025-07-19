@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test latex post."
-date:   2025-06-11
+date:   2025-07-19
 categories: jekyll update
 ---
 We let $$\alpha_{1},...,\alpha_{R}$$ be $$R$$ real numbers that are pairwise distinct modulo one and we let
